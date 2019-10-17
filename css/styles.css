@@ -6,7 +6,7 @@
 }
 .mid{
   background-color: #394a6d;
-  height: 600px;
+  height: 3000px;
   padding: 0px;
 }
 
@@ -15,6 +15,9 @@
   color: #23374d;
   font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
 }
+.white{
+  color: white;
+}
 .midp{
   text-align: center;
   color: #23374d;
@@ -22,6 +25,18 @@
 }
 .label{
   text-align: center;
+  color: white;
+  font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
+}
+.projectlabel{
+  margin-left: 10%;
+  margin-rigjt: 10%;
+  color: white;
+  font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
+}
+.description{
+  margin-left: 17%;
+  margin-right: 10%;
   color: white;
   font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
 }
@@ -40,6 +55,18 @@
   margin-left: auto;
   margin-right: auto;
   width: 150px;
+}
+.projectimg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+}
+.projectimg2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
 }
 .mountain {
   display: block;
